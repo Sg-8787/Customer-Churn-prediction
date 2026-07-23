@@ -31,14 +31,18 @@ A Machine Learning project that predicts whether a telecom customer is likely to
 
 
 ## Model Performance
-- Algorithm: Logistic Regression
-- Accuracy: 82%
+- ✅ Accuracy: **82%**
+- ✅ ROC-AUC Score: **0.86**
+- ✅ Precision: **0.68**
+- ✅ Recall: **0.58**
+- ✅ F1-Score: **0.62**
 
 ## Evaluation Metrics:
 - Precision
 - Recall
 - F1-Score
 - Confusion Matrix
+- ROC-AUC Score
   
  ## Run
 
